@@ -1,31 +1,34 @@
 body {
   background-color: whitesmoke;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  text-align: center;
 }
 
 .imagem {
-  height: 10rem;
+  height: 8rem;
+  width: 130px;
+  border-radius: 100px;
+  border: solid yellowgreen;
 }
 #t1 {
   font-family: fantasy;
   font-size: xx-large;
   color: rgb(11, 201, 52);
-  background-color: black;
+  border: 0.2rem solid  black;
   height: 2.4rem;
-  width: 7rem;
-  margin: 10px;
+ 
 }
 .corpomeio {
   border: 2rem groove yellowgreen;
   background-color: antiquewhite;
   margin: 10px;
   border-radius: 2rem;
-  height: 38rem;
-  width: 49rem;
+  
 }
 .p1 {
   color: black;
-  margin: 10px;
+  
 }
 #p2 {
   margin: 10px;
