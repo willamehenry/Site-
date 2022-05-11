@@ -1,0 +1,57 @@
+body {
+  background-color: whitesmoke;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.imagem {
+  height: 10rem;
+}
+#t1 {
+  font-family: fantasy;
+  font-size: xx-large;
+  color: rgb(11, 201, 52);
+  background-color: black;
+  height: 2.4rem;
+  width: 7rem;
+  margin: 10px;
+}
+.corpomeio {
+  border: 2rem groove yellowgreen;
+  background-color: antiquewhite;
+  margin: 10px;
+  border-radius: 2rem;
+  height: 38rem;
+  width: 49rem;
+}
+.p1 {
+  color: black;
+  margin: 10px;
+}
+#p2 {
+  margin: 10px;
+  font-style: italic;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.9rem;
+}
+#imag2 {
+  height: 27rem;
+  margin: 10px;
+  border-radius: 10px;
+  margin-top: 0.1rem;
+}
+.list {
+  list-style-type: none;
+  padding: 0.9rem;
+  text-transform: lowercase;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+#foot {
+  color: black;
+}
+#li1 {
+  color: black;
+}
